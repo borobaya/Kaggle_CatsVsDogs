@@ -4,6 +4,10 @@ These scripts were made whilst learning to use the Bag of Words model of OpenCV 
 
 
 Tips:
-- Create "Cache" directory
-- Run "createFeatures.py" first, followed by "trainFeatures.py"
+- Create a directory named "Cache".
+- Download the training and test zip files from https://www.kaggle.com/c/dogs-vs-cats/data and unzip them into folders named "train" and "test1".
 
+You can see how well tweaking parameters work without submissions to Kaggle. For this run "createFeatures.py" first, followed by "trainFeatures.py".
+
+
+To submit to Kaggle, run "predictTestSet.py".
