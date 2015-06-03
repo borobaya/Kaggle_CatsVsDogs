@@ -10,4 +10,4 @@ Tips:
 You can see how well tweaking parameters work without submissions to Kaggle. For this run "createFeatures.py" first, followed by "trainFeatures.py".
 
 
-To submit to Kaggle, run "predictTestSet.py".
+To submit to Kaggle, run "predictTestSet.py". Untweaked, this code achieves a score of 0.58023 on the leaderboard.
